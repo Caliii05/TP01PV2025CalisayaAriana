@@ -1,0 +1,103 @@
+title { 
+    color:hsl(68, 92%, 71%) border-block-end-width;
+    font-size: 2em;
+}
+H1{
+    color: #ffffff;
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-style: oblique;
+    text-align:center;
+    text-decoration:double;
+    background-color: #6e91d6; 
+    padding: 30px; 
+    margin-bottom: 40px;
+}
+body{
+    background-color: #f1e388;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+.pos{
+    text-box:initial;
+    text-align: center;
+}
+footer{
+font-style:oblique;
+    list-style: none; 
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1em;
+    color: #000000; 
+}
+.HG{
+
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 40px;
+}
+.L{
+    background-color: #f6f682;
+    padding: 10px; 
+    margin-bottom: 70px;
+}
+.F{
+    background-color: #f6f682; 
+    padding: 10px;
+    margin-bottom: 70px;
+}
+.CYM{
+    background-color: #f6f682; 
+    padding: 10px; 
+    margin-bottom: 70px;
+}
+.AYA{
+    background-color: #f6f682; 
+    padding: 10px;
+    margin-bottom: 70px;
+}
+.PYS{
+    background-color: #f6f682; 
+    padding: 10px; 
+    margin-bottom: 70px;
+}
+.M{
+    background-color: #f6f682; 
+    padding: 10px; 
+    margin-bottom: 70px;
+}
+.pos{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    font-style: italic;
+}
+form{
+    text-align: center;
+    background-color: #f0f0c7;
+    font-style: oblique;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+.con{
+    background-color: #f0f0c7;
+    font-style: oblique;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    border: 15px solid #333; 
+    box-sizing: border-box;
+}
+.hi{
+    font-style: oblique;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5em;
+}
